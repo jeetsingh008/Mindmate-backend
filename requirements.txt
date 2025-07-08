@@ -1,7 +1,6 @@
 streamlit
 torch
 transformers
-re
 nltk
 stopwords
 FastAPI
