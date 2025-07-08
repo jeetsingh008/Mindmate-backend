@@ -3,9 +3,6 @@ torch
 transformers
 nltk
 stopwords
-FastAPI
-Requests
-BaseModel
+fastapi
+requests
 uvicorn
-FastAPI
-CORSMiddleware
