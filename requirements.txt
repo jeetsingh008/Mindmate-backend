@@ -1,7 +1,6 @@
 streamlit
 torch
 transformers
-pickle
 re
 nltk
 stopwords
