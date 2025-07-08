@@ -4,7 +4,7 @@ transformers
 nltk
 stopwords
 FastAPI
-Request
+Requests
 BaseModel
 uvicorn
 FastAPI
