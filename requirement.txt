@@ -1,0 +1,13 @@
+streamlit
+torch
+transformers
+pickle
+re
+nltk
+stopwords
+FastAPI
+Request
+BaseModel
+uvicorn
+FastAPI
+CORSMiddleware
